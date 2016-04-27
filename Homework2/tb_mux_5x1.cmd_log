@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Chris/Documents/CompE470/Homework2/Homework2/tb_mux_5x1.xst" -ofn "C:/Users/Chris/Documents/CompE470/Homework2/Homework2/tb_mux_5x1.syr" 
